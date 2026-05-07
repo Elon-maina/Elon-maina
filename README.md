@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Elon-maina
 - 👀 I’m interested in learning programmimg
-- 🌱 I’m currently learning c sharp language
-- 💞️ I’m looking to collaborate on c sharp pojects
-- 📫 How to reach me 0110582443 
+- 🌱 I’m currently learning c sharp language and python
+- 💞️ I have interest in Cybersecurity
+- 📫 How to reach me 0746848928 
 
 <!---
 Elon-maina/Elon-maina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
